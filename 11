@@ -1,0 +1,1 @@
+https://account.jetbrains.com/oauth/login?client_id=ide&scope=openid%20offline_access%20r_ide_auth&state=19a9ada0-90c6-47f7-916b-bacb94ae5eec&code_challenge_method=S256&code_challenge=50kmf6wU8Z3BwzuXk33akEY-hn3tPOQy_8e8VSm0vj8&redirect_uri=http://localhost:62345&request_credentials=required
